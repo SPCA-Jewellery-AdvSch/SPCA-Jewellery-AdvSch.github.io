@@ -4,4 +4,4 @@ The SPCA Jewellery fundraiser is a fundraiser for the SPCA, and it is run by a g
 
 If you would like to order some thing, comment bellow the picture, and take the required amount of money to school next friday.
 
-![Mermaid style bracelet]({{site.baseurl}}/images/mermaid-bracelet.JPG)
+![Mermaid style bracelet]({{site.baseurl}}/images/mermaid-bracelet.jpg)
