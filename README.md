@@ -4,4 +4,4 @@ We are all very passionat about aets and crafts, and we all love animals.We deci
 
 If you would like to order some thing, comment bellow the picture, and take the required amount of money to school next friday. 
 
-![Mermaid style bracelet]({{site.baseurl}}//IMG_2704.JPG)
+![Mermaid style bracelet]({{site.baseurl}}/IMG_2704.JPG)
