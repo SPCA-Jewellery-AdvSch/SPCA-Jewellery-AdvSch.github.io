@@ -1,6 +1,6 @@
 ## SPCA Jewellery Fundraiser
 
-The SPCA Jewellery fundraiser is a fundraiser for the SPCA, and it is run by us,a group of students in Totara. We are all very passionate about arts and crafts, and we all love animals. We decided that we wanted to fundraise for all the unwanted animals in the SPCA, so we are selling jewellery after school on _ once a week.
+The SPCA Jewellery fundraiser is a fundraiser for the [Wellington SPCA](https://www.wellingtonspca.org.nz/), and it is run by us,a group of students in Totara Syndicate at [Adventure School](http://www.adventure.school.nz/). We are all very passionate about arts and crafts, and we all love animals. We decided that we wanted to fundraise for all the unwanted animals in the SPCA, so we are selling jewellery after school on _ once a week.
 
 70% of the profits we make will go to the SPCA, and 30% of the profits will go towards new equipment.
 
