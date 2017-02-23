@@ -1,6 +1,3 @@
-## Welcome to GitHub Pages
+## SPCA Jewellery Fundraiser
 
-You can use the [editor on GitHub](https://github.com/SPCA-Jewellery-AdvSch/SPCA-Jewellery-AdvSch.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+We are selling jewellery after school on _. 
